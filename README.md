@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hi there, I'm Pablo 👋
 
-<!--
-**pablo-kunz/pablo-kunz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Programming Technician student at Universidad Tecnológica Nacional (UTN), Argentina
+🐍 Currently focused on Python — building real projects, not just exercises
+🌍 Working on my English to collaborate with international teams
+🚀 Open to remote opportunities and freelance projects
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**What I'm building:**
+- Console-based applications with clean architecture, file persistence and proper error handling
+- Practicing real-world problem solving through hands-on projects
+
+**Currently learning:**
+- Python fundamentals → moving toward backend development (Flask/FastAPI)
+- Technical English for IT (Cisco Networking Academy)
+
+📫 Let's connect — always open to new projects and collaborations.
